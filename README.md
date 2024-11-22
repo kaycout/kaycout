@@ -1,6 +1,6 @@
 ## hii, my name is kaylane and i'm a technology student! 🎒📚🖥
 
-• Taking a computer course 🖥
+• Ccomputer technician 🖥
 
 • Trying to deposit everything I learned here!!! 
 
