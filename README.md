@@ -21,5 +21,4 @@
   
 </div>
 
-![snake gif](https://github.com/kaycout/kaycout/blob/output/github-contribution-grid-snake-dark.svg)
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d2c89873-8449-4834-a2cc-f82f8ebb0ca0)
