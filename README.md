@@ -12,7 +12,7 @@
   ##
 
   ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api?username=kaycout&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&layout=true&theme=radical)
  
 <div> 
   <a href = "kaycoutinho387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
