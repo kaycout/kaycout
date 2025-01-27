@@ -7,7 +7,7 @@
 ### Programming Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="kaycout-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="kaycout-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+  <img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
   <img align="center" alt="kaycout-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaycout-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
