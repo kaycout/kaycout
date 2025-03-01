@@ -2,6 +2,9 @@
 
 ## hii, my name is kaylane, i'm a technology student and here you will find some information about my learning focused on IT! 🎒📚🖥
 
+🚀 Information Systems Student | 💻 
+
+👩‍💻 Learning Java, HTML, CSS, JavaScript, and Databases
 
 • Computer technician 🖥
 
