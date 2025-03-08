@@ -32,9 +32,15 @@
 
   ##
 
+  <div>
+    
   ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api?username=kaycout&show_icons=true&theme=radical)
-  ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+   
+  
+  ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&theme=radical)
+  </div>
 
+  
   ## And finally here you will find networks to contact me and platforms that I use! 🚀
  
 <div> 
