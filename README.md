@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/kaycout/kaycout/blob/main/github2.jpg" height="500" width="750">
+<img align="center" src="https://github.com/kaycout/kaycout/blob/main/img3.jpeg" height="500" width="750">
 
 ## hii, my name is kaylane, i'm a technology student and here you will find some information about my learning focused on IT! 🎒📚🖥
 
