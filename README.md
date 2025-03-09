@@ -37,7 +37,7 @@
   ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api?username=kaycout&show_icons=true&theme=radical)
    
   
-  ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&theme=radical)
+  ![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&theme=radical)
   </div>
 
   
