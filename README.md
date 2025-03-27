@@ -43,7 +43,7 @@
   </div>
 
 ## 🌟 And finally, check out my socials and the platforms I’m on. Feel free to check out my README and take a look at my profile! 🚀🌟
-  <img src="https://github.com/kaycout/kaycout/blob/main/gif-readme2-gif" height="70" width="70">
+  <img src="https://github.com/kaycout/kaycout/blob/main/gif-readme.jpg" height="70" width="70">
 
 <div> 
   <a href="https://www.gmail.com/in/kaycoutinho387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_red"></a>
