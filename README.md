@@ -35,9 +35,11 @@
   <div>
     
   ![Kaylane Coutinho, welcome my github](https://github-readme-stats.vercel.app/api?username=kaycout&show_icons=true&theme=radical)
-   
   
-  ![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaycout&theme=radical)
+   
+  ![Linguagens Mais Usadas](https://img.shields.io/badge/Linguagens-Java%20%7C%20HTML%20%7C%20CSS%20%7C%20javaScript%20%7C%20Python%20%7C%20SQL-ff69b4?style=for-the-badge&logoColor=white&color=pink)
+
+
   </div>
 
   
