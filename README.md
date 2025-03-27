@@ -2,8 +2,6 @@
 
 ## Hi, my name is Kaylane! I’m a technology student. Here, you’ll find some insights about my learning journey, all focused on IT! 🎒📚🖥
 
-<img align="center" src="https://github.com/kaycout/kaycout/blob/main/line-readme.gif" height="500" width="750">
-
 🚀 Information Systems Student | 💻🖥
 🚀 Computer Technician | 💻🖥
 
@@ -45,7 +43,7 @@
   </div>
 
 ## 🌟 And finally, check out my socials and the platforms I’m on. Feel free to check out my README and take a look at my profile! 🚀🌟
-  <img src="git-readme2.gif" alt="GIF para readme" width="1000">
+  <img src="https://github.com/kaycout/kaycout/blob/main/gif-redme2-gif" height="70" width="70">
 
 <div> 
   <a href="https://www.gmail.com/in/kaycoutinho387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_red"></a>
