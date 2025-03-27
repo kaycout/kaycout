@@ -1,13 +1,15 @@
 <img align="center" src="https://github.com/kaycout/kaycout/blob/main/img3.jpeg" height="500" width="750">
 
-## hii, my name is kaylane, i'm a technology student and here you will find some information about my learning focused on IT! 🎒📚🖥
+## Hi, my name is Kaylane! I’m a technology student. Here, you’ll find some insights about my learning journey, all focused on IT! 🎒📚🖥
+
+<img align="center" src="https://github.com/kaycout/kaycout/blob/main/line-readme.gif" height="500" width="750">
 
 🚀 Information Systems Student | 💻🖥
-🚀 Computer technician | 💻🖥
+🚀 Computer Technician | 💻🖥
 
-👩‍💻 Learning Java, HTML, CSS, JavaScript, and Databases
+👩‍💻 Currently learning Java, HTML, CSS, JavaScript, and Databases.
 
-• Trying to deposit everything I learned here!!! 
+• Putting everything I’m learning into practice here!!!
 
 ### Programming Languages
 <div style="display: inline_block"><br>
@@ -15,7 +17,7 @@
   <img align="center" alt="kaycout-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaycout-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  ### markup language
+  ### Markup Language
   <img align="center" alt="kaycout-HTML" eight="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   ### Style Language
@@ -42,9 +44,9 @@
 
   </div>
 
-  
-  ## And finally here you will find networks to contact me and platforms that I use! 🚀
- 
+## 🌟 And finally, check out my socials and the platforms I’m on. Feel free to check out my README and take a look at my profile! 🚀🌟
+  <img src="git-readme2.gif" alt="GIF para readme" width="1000">
+
 <div> 
   <a href="https://www.gmail.com/in/kaycoutinho387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_red"></a>
   <a href="https://www.linkedin.com/in/kaylane-coutinho-9069a2298/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
