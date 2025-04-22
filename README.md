@@ -5,9 +5,19 @@
 🚀 Information Systems Student | 💻🖥
 🚀 Computer Technician | 💻🖥
 
+🎯 Mission: to learn more and more about technology and master whatever I decide to specialize in.
+
 👩‍💻 Currently learning Java, HTML, CSS, JavaScript, and Databases.
 
 • Putting everything I’m learning into practice here!!!
+
+### 🚀 Projetos em destaque
+
+- 🎲 [Sorteador de Equipes - Projeto Integrador](#)  
+- 🔐 [Mini API de Autenticação com Node.js](#)  
+- 🌐 [Meu Portfólio](#)  
+- 📚 [Repositório de Estudos](#)  
+
 
 ### Programming Languages
 <div style="display: inline_block"><br>
