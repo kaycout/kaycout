@@ -11,7 +11,7 @@
 
 • Putting everything I’m learning into practice here!!!
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
 - 🎲 [Sorteador de Equipes - Projeto Integrador](#)  
 - 🔐 [Mini API de Autenticação com Node.js](#)  
