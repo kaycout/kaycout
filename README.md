@@ -13,8 +13,7 @@
 
 ### 🚀 Featured projects
 
-- 🎲 [Sorteador de Equipes - Projeto Integrador](#)  
-- 🔐 [Mini API de Autenticação com Node.js](#)  
+- 🎲 [Sorteador de Equipes - Projeto Integrador](#)
 - 🌐 [Meu Portfólio](#)  
 - 📚 [Repositório de Estudos](#)  
 
@@ -23,7 +22,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kaycout-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="kaycout-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kaycout-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="kaycout-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
   ### Markup Language
   <img align="center" alt="kaycout-HTML" eight="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -64,3 +63,4 @@
 </div>
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d2c89873-8449-4834-a2cc-f82f8ebb0ca0)
+
